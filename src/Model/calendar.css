@@ -1,0 +1,48 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 6, 2019, 8:47:59 PM
+    Author     : G
+
+*/
+
+/*#calendar-button {
+   -fx-faint-focus-color: #33448877;
+   
+}*/
+
+/*#calendar-button:hover {
+   -fx-background-color: rgba(40, 165, 80, .2);
+}*/
+
+#appt-label {
+   -fx-font-size: 12px;
+}
+
+#appt-label:hover {
+   -fx-background-color: rgba(88, 99, 111, .2);
+   -fx-text-fill: rgb(40, 165, 80);
+}
+
+#appt-label-ellipses {
+   -fx-font-size: 12px;
+   font-weight: bold;
+}
+
+#appt-label-ellipses:hover {
+   -fx-background-color: rgba(88, 99, 111, .2);
+   -fx-text-fill: rgb(40, 165, 80);
+}
+
+.label {
+   -fx-padding: 2 3 0 0;
+}
+
+#leftPane {
+   -fx-border-width: 2 2 0 0;
+   -fx-border-color: rgba(0, 0, 0, .3);
+   -fx-background-color: rgba(80, 80, 80, .1);
+}
